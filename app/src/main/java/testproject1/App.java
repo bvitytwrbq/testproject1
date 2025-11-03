@@ -5,7 +5,7 @@ package testproject1;
 
 public class App {
     public String getGreeting() {
-        return "tomato";
+        return "potato";
     }
 
     public static void main(String[] args) {
